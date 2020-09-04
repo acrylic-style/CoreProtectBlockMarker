@@ -1,0 +1,9 @@
+name: CoreProtectBlockMarker
+version: "1.0"
+api-version: "1.15"
+main: xyz.acrylicstyle.cpBlockMarker.CPBlockMarker
+depend:
+  - TomeitoLib
+commands:
+  cpbm:
+    aliases: ["blockmarker", "comarker"]
